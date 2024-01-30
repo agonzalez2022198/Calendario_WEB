@@ -26,6 +26,11 @@ body{
     width: 50%;
 }
 
+
+/*Hacer que el div agarre la mitad igual que el otro
+    - Queda pendiente..
+*/
+
 .login h5{
     margin: 0;
     text-align: center;
