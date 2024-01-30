@@ -7,7 +7,7 @@
 
 body{
     font-family: arial;
-    background-image: url('sdgdsg.png');
+    background-image: url('../img/imgLogin.png');
 }
 
 .login{
@@ -34,4 +34,35 @@ body{
 .control{
     width: 100%;
     border: 1px solid #017bab;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: #252323;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.button{
+    width: 100%;
+    height: 40px;
+    background: #017bab;
+    border: none;
+    color: white;
+    margin-bottom: 16px;
+}
+
+.login p{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+.login a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+
+}
+
+.login a:hover{
+    text-decoration: underline;
 }
