@@ -22,6 +22,10 @@ body{
     color: white;
 }
 
+.divImg{
+    width: 50%;
+}
+
 .login h5{
     margin: 0;
     text-align: center;
