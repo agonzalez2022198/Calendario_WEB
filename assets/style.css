@@ -1,20 +1,35 @@
 body{
-    background: black;
+    background: rgb(177, 143, 115);
 }
 
 .encabezado{
     text-align: center;
     color: aliceblue;
-    background: gray;
+    background: black;
     align-items: center;
 }
 
 .contact1{
-    background-color: white;
-    color: white;
-    background-color: white;
-    width: 80%;
+    background-color: #fff;
+    width: 60%;
     height: 300px;
     margin: auto;
     border-radius: 150px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.h3contact{
+    color: black;
+    margin-left: 100px;
+}
+
+.contact1 h4{
+    color: black;
+    margin-left: 100px;
+}
+
+.imgIcon{
+    margin: auto;
+    width: 20px;
 }
