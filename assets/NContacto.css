@@ -8,22 +8,26 @@
 body{
     font-family: arial;
     background-image: url('../img/imgLogin.png');
+    display: flex;
 }
 
 .login{
-    width: 400px;
+    width: 50%;
     height: 500px;
     background: #4e4d4d;
-    margin: auto;
-    margin-top: 180px;
     box-shadow: 7px 13px 37px #000;
     padding: 20px 30px;
-    border-top: 4px solid #017bab;
-    color: white;
+    border-top: 100px solid;
 }
 
 .divImg{
     width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    color: white;
 }
 
 
