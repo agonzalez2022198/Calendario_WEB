@@ -81,3 +81,30 @@ li:hover{
 .btn:hover{
     background-color: #2980b9;
 }
+
+
+#new-task{
+    margin-top: 10px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
+
+#add-btn{
+    background-color: #27ae60;
+    color: #fff;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+#add-btn:hover{
+    background-color: #219653;
+}
