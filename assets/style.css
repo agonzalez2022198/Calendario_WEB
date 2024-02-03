@@ -131,3 +131,19 @@ body{
 .llamar-btn:hover{
     background-color: #45a049;
 }
+
+
+.barraBotones {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.barraBotones button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
